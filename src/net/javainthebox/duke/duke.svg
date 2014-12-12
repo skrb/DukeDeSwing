@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1600 1200" enable-background="new 0 0 1600 1200" xml:space="preserve">
+<g id="duke">
+	<g>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="5" d="M71.3-116.4C71.3-41.9,39-9-0.7-11.9c-57.1-4.1-115,5-103-53
+			c2.6-12.7,30.5-18.5,30.6-27c0.1-7.8,0.4-15.9,0.4-24.5c0-57.7,73.5-100.7,94-111.5C33.7-234.4,71.3-174.1,71.3-116.4z"/>
+		<path stroke="#FFFFFF" stroke-width="2" d="M-62.5-153.8c20.9-38.4,68-65.7,83.8-74c12.4-6.6,50,53.8,50,111.5
+			c0,4-0.1,7.8-0.3,11.6"/>
+		
+			<ellipse transform="matrix(0.9185 -0.3954 0.3954 0.9185 67.1804 -41.0872)" fill="#ED1C24" cx="-66.1" cy="-183.5" rx="39.5" ry="37.5"/>
+	</g>
+	<rect x="-70.7" y="-11.7" fill="#FFFFFF" stroke="#000000" width="142" height="15.7"/>
+	<path fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" d="M18.8-124.7c20,1.5,48,25.5-6.5,40.5"/>
+</g>
+<g id="hand">
+	<path d="M17.5-80.5c-0.7,12.7-3,22.9-18.4,22c-16.4-0.9-16.6-11.2-15.9-23.9s9-22.5,18.4-22C17.6-103.5,18.2-93.2,17.5-80.5z"/>
+</g>
+</svg>
